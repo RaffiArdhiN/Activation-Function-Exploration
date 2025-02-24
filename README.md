@@ -1,4 +1,4 @@
-# Activation-Function-Exploration: A Repository for Novel Activation Functions
+# Activation-Function-Exploration
 
 This repository is dedicated to the research and development of new activation functions for artificial neural networks. The main goal of this project is to overcome the challenges that exist in current activation functions, such as vanishing gradients and dying ReLUs, and improve the overall performance of deep learning models.
 
